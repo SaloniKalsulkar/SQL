@@ -1,14 +1,13 @@
 
 /*------------------------------------------------------------------------------------------------------------------------------------------
 
-Some CASE statements and CREATE TABLE examples might seem illogical to some extent, 
+Some CASE statements and CREATE TABLE examples might seem illogical, 
+but the business problem faced at my company has been translated 
+into a daily-life example, as using actual company data wasn't feasible.
 
+The data was 1000 times larger and more complex, but to explain the solution, it was simplified significantly.
 
-but I attempted to translate the business problem we faced at my company 
-into a daily life example, as we cannot use our company data
-
-We had data that was 1000 times larger and 1000 times more complex, 
-but to explain the solution, tried to simplify the data
+Please see the attached PPT and query for details.
 
 -----------------------------------------------------------------------------------------------------------------------------------------*/
 
